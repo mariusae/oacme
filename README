@@ -1,4 +1,6 @@
 OCaml library for interfacing with the Acme editor.
 
+Still work in progress.
+
 TODO
  * 	hook this up to ofroc
