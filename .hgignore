@@ -1,0 +1,5 @@
+syntax:glob
+*.cm[xio]
+*.cmxa
+*.o
+*.a

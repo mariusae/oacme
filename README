@@ -1,0 +1,4 @@
+OCaml library for interfacing with the Acme editor.
+
+TODO
+ * 	hook this up to ofroc

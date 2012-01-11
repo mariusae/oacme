@@ -1,0 +1,6 @@
+name="Acme"
+version="1.0"
+description="OCaml bindings for Acme"
+requires="o9p ulib"
+archive(byte) = "acme.cma"
+archive(native) = "acme.cmxa"
